@@ -4,10 +4,10 @@ This repository contains my projects developed for various competitions on Kaggl
 
 ## Projects
 
-### Housing Prices
+### [Housing Prices](https://github.com/tapheret2/Kaggle-Projects/tree/main/Housing%20Prices)
 A project focused on predicting housing prices using machine learning techniques.
 
-### Predicting Road Accident Risk
+### [Predicting Road Accident Risk](https://github.com/tapheret2/Kaggle-Projects/tree/main/Predicting%20Road%20Accident%20Risk)
 Predict the likelihood of accidents on different types of roads.
 
 ## About
